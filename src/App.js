@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import wavingHand from './assets/images/wavingHand.svg';
 import SearchBar from './assets/util/SearchBar';
 import PageBottom from './components/PageBottom';
